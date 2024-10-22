@@ -19,7 +19,7 @@
   spring.jpa.properties.hibernate.c3p0.timeout=300
 ```
 <p align="center">
-  <img src="Screenshot.png" width="auto" alt="accessibility text">
+  <img src="Screenshot (22).png" width="auto" alt="accessibility text">
 </p>
 
 # Body
