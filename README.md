@@ -7,17 +7,17 @@
 - POST:  http://localhost:8080/pdf
 
 ## application.properties file config ->
-
-spring.application.name=demo
-server.port=8080
-spring.datasource.url=jdbc:mysql://localhost:3306/db2;
-spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
-spring.datasource.username=root
-spring.datasource.password=root
-spring.jpa.properties.hibernate.c3p0.min_size=5
-spring.jpa.properties.hibernate.c3p0.max_size=20
-spring.jpa.properties.hibernate.c3p0.timeout=300
-
+```
+  spring.application.name=demo
+  server.port=8080
+  spring.datasource.url=jdbc:mysql://localhost:3306/db2;
+  spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+  spring.datasource.username=root
+  spring.datasource.password=root
+  spring.jpa.properties.hibernate.c3p0.min_size=5
+  spring.jpa.properties.hibernate.c3p0.max_size=20
+  spring.jpa.properties.hibernate.c3p0.timeout=300
+```
 <p align="center">
   <img src="Screenshot.png" width="auto" alt="accessibility text">
 </p>
